@@ -17,6 +17,10 @@ Em sua essência, a aplicação de teste de mutação é uma técnica de avalia�
 - Ensinar voluntariamente o desenvolvedor a pensar em testes;
 - Ser mais uma ferramenta na adoção de práticas de garantia de qualidade de software.
 
+## Desvantagem
+
+- Sua execução pode ser custosa dependendo do tamanho do projeto (pensando na execução da análise pela ferramenta).
+
 **Já que estamos falando de uma ferramenta de apoio à produção de cobertura de código, vamos introduzir o Pitest (Java).**
 
 ## Sobre o Pitest
